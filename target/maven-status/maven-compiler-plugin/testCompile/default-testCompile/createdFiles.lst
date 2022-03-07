@@ -1,0 +1,5 @@
+testCases\testCasesMobileAssignment.class
+pageObjects\GoogleMapsPage.class
+testCases\TestBase.class
+pageObjects\PageBase.class
+pageObjects\HomePage.class
